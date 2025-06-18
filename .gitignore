@@ -4,3 +4,4 @@ node_modules
 # ambiente virtual
 .env
 
+.gitignore
